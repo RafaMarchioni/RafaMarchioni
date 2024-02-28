@@ -5,7 +5,7 @@
 
 - 🌱 No momento estou estudando **C#, SQL Server e JavaScript**
 
-- 📞 Telefone de Contato [(11) 995847472]((11) 995847472)
+- 📞 Telefone de Contato (11) 995847472
 
 - 🗨 Linkedin [https://www.linkedin.com/in/rafael-marchioni-418a91258/](https://www.linkedin.com/in/rafael-marchioni-418a91258/)
 
