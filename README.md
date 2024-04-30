@@ -1,11 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Rafael Marchioni</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas com experiência como Jovem Aprendiz em TI, atuando na área administrativa, help desk e desenvolvimento web. Apaixonado por computadores, preparado e determinado a seguir uma carreira focada em desenvolvimento de software.</h3>
 
-- 🔭 Atualmente estou trabalhando em meu **Portfólio**
+- 🔭 Atualmente trabalhando como **Suporte Técnico**
 
 - 🌱 No momento estou estudando **C#, SQL Server e JavaScript**
 
 - 📞 Telefone de Contato (11) 995847472
+
+- 💻 Portfólio [https://rafamarchioni.github.io/](https://rafamarchioni.github.io/)
 
 - 🗨 Linkedin [https://www.linkedin.com/in/rafael-marchioni-418a91258/](https://www.linkedin.com/in/rafael-marchioni-418a91258/)
 
